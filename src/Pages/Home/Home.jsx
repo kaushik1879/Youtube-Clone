@@ -5,6 +5,8 @@ import Feed from "../../Components/Feed/Feed";
 
 const Home = ({ sidebar }) => {
   const [category, setCategory] = useState(0);
+  console.log(set);
+  
   return (
     <>
       <Sidebar sidebar={sidebar} category={category} setCategory={setCategory}/>
