@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1785824841978" clover="3.2.0">
+  <project timestamp="1785824841978" name="All files">
+    <metrics statements="77" coveredstatements="23" conditionals="46" coveredconditionals="11" methods="41" coveredmethods="7" elements="164" coveredelements="41" complexity="0" loc="77" ncloc="77" packages="9" files="40" classes="40"/>
+    <package name="src">
+      <metrics statements="10" coveredstatements="5" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="App.jsx" path="C:\Kaushik\Youtube-Clone\src\App.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="data.js" path="C:\Kaushik\Youtube-Clone\src\data.js">
+        <metrics statements="7" coveredstatements="2" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.Components.Feed">
+      <metrics statements="11" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+      <file name="Feed.css" path="C:\Kaushik\Youtube-Clone\src\Components\Feed\Feed.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="Feed.jsx" path="C:\Kaushik\Youtube-Clone\src\Components\Feed\Feed.jsx">
+        <metrics statements="11" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.Components.Navbar">
+      <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1"/>
+      <file name="Navbar.css" path="C:\Kaushik\Youtube-Clone\src\Components\Navbar\Navbar.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="Navbar.jsx" path="C:\Kaushik\Youtube-Clone\src\Components\Navbar\Navbar.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+    </package>
+    <package name="src.Components.PlayVideo">
+      <metrics statements="25" coveredstatements="1" conditionals="18" coveredconditionals="0" methods="12" coveredmethods="0"/>
+      <file name="PlayVideo.css" path="C:\Kaushik\Youtube-Clone\src\Components\PlayVideo\PlayVideo.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="PlayVideo.jsx" path="C:\Kaushik\Youtube-Clone\src\Components\PlayVideo\PlayVideo.jsx">
+        <metrics statements="25" coveredstatements="1" conditionals="18" coveredconditionals="0" methods="12" coveredmethods="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.Components.Recommended">
+      <metrics statements="11" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <file name="Recommended.css" path="C:\Kaushik\Youtube-Clone\src\Components\Recommended\Recommended.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="Recommended.jsx" path="C:\Kaushik\Youtube-Clone\src\Components\Recommended\Recommended.jsx">
+        <metrics statements="11" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.Components.Sidebar">
+      <metrics statements="11" coveredstatements="2" conditionals="20" coveredconditionals="10" methods="10" coveredmethods="1"/>
+      <file name="Sidebar.css" path="C:\Kaushik\Youtube-Clone\src\Components\Sidebar\Sidebar.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="Sidebar.jsx" path="C:\Kaushik\Youtube-Clone\src\Components\Sidebar\Sidebar.jsx">
+        <metrics statements="11" coveredstatements="2" conditionals="20" coveredconditionals="10" methods="10" coveredmethods="1"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="0" type="cond" truecount="1" falsecount="1"/>
+        <line num="24" count="0" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="0" type="cond" truecount="1" falsecount="1"/>
+        <line num="30" count="0" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="0" type="cond" truecount="1" falsecount="1"/>
+        <line num="36" count="0" type="cond" truecount="1" falsecount="1"/>
+        <line num="39" count="0" type="cond" truecount="1" falsecount="1"/>
+        <line num="42" count="0" type="cond" truecount="1" falsecount="1"/>
+        <line num="45" count="0" type="cond" truecount="1" falsecount="1"/>
+      </file>
+    </package>
+    <package name="src.Pages.Home">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="Home.css" path="C:\Kaushik\Youtube-Clone\src\Pages\Home\Home.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="Home.jsx" path="C:\Kaushik\Youtube-Clone\src\Pages\Home\Home.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.Pages.Video">
+      <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="Video.css" path="C:\Kaushik\Youtube-Clone\src\Pages\Video\Video.css">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="Video.jsx" path="C:\Kaushik\Youtube-Clone\src\Pages\Video\Video.jsx">
+        <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.assets">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="automobiles.png" path="C:\Kaushik\Youtube-Clone\src\assets\automobiles.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="blogs.png" path="C:\Kaushik\Youtube-Clone\src\assets\blogs.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="cameron.png" path="C:\Kaushik\Youtube-Clone\src\assets\cameron.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="dislike.png" path="C:\Kaushik\Youtube-Clone\src\assets\dislike.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="entertainment.png" path="C:\Kaushik\Youtube-Clone\src\assets\entertainment.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="game_icon.png" path="C:\Kaushik\Youtube-Clone\src\assets\game_icon.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="home.png" path="C:\Kaushik\Youtube-Clone\src\assets\home.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="jack.png" path="C:\Kaushik\Youtube-Clone\src\assets\jack.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="like.png" path="C:\Kaushik\Youtube-Clone\src\assets\like.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="logo.png" path="C:\Kaushik\Youtube-Clone\src\assets\logo.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="megan.png" path="C:\Kaushik\Youtube-Clone\src\assets\megan.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="menu.png" path="C:\Kaushik\Youtube-Clone\src\assets\menu.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="more.png" path="C:\Kaushik\Youtube-Clone\src\assets\more.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="music.png" path="C:\Kaushik\Youtube-Clone\src\assets\music.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="news.png" path="C:\Kaushik\Youtube-Clone\src\assets\news.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="notification.png" path="C:\Kaushik\Youtube-Clone\src\assets\notification.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="save.png" path="C:\Kaushik\Youtube-Clone\src\assets\save.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="search.png" path="C:\Kaushik\Youtube-Clone\src\assets\search.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="share.png" path="C:\Kaushik\Youtube-Clone\src\assets\share.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="simon.png" path="C:\Kaushik\Youtube-Clone\src\assets\simon.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="sports.png" path="C:\Kaushik\Youtube-Clone\src\assets\sports.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="tech.png" path="C:\Kaushik\Youtube-Clone\src\assets\tech.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="tom.png" path="C:\Kaushik\Youtube-Clone\src\assets\tom.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="upload.png" path="C:\Kaushik\Youtube-Clone\src\assets\upload.png">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
