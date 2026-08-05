@@ -64,6 +64,9 @@ const Sidebar = ({sidebar,category,setCategory}) => {
         <div className="side-link">
             <img src={cameron} alt="" /><p>Nas Daily</p>
         </div>
+        <div className="side-link">
+            <img src={cameron} alt="" /><p>Us Daily</p>
+        </div>
     </div>
   </div>;
 };
