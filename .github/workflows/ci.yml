@@ -31,3 +31,14 @@ jobs:
 
       - name: Build Project
         run: npm run build
+
+      - name: Deploy to IIS
+        shell: powershell
+        run: |
+          $destination = "C:\Kaushik\website\reactapp"
+
+          # Remove old files (except web.config)
+          Get-ChildItem $destination -Exclude "web.config" | Remove-Item -Recurse -Force
+
+          # Copy new build
+          Copy-Item "dist\*" $destination -Recurse -Force
